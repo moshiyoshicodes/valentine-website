@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My sweet little rakshas Valentine? 💝",
+    pageTitle: "HEHEHE 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you find me sexy?",                                    // First interaction
+            text: "Are you smiling right now?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't find you just sexy because you're the sexiest most beautiful person ever ❤️"           // Secret hover message
+            secretAnswer: "I have the hugest smile on my face and im dancing and jumping rn ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my cutue lil Valentine on February 14th, 2026? 🌹", // The big question!
+            text: "Will you, Navsa Arora be my cutue lil Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,14 +42,14 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "HOYE HOYE BALLE BALLE 🥰🚀💝",  // Shows when they go past 5000%
         high: "OOOOF ITNA ZYADA? 🚀💝",              // Shows when they go past 1000%
         normal: "OHHH MY GOD TOO MUCH LOVE 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay navaI'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Yay nava I'm genuinely the luckiest person in the world! 🎉💝💖💝💓",
         message: "Now come get a big warm hug and a huge sloppy kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
